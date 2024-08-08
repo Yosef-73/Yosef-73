@@ -1,7 +1,6 @@
 - 👋 Olá, sou o José!
 - 👀 Sou designer, Social Media Junior, Suporte Técnico em TI e Fotógrafo.
-- 🌱 Estudo programação e SI
-- 📫 Instagram Social Media: 
+- 🌱 Estudo programação e SI 
 
 <!---
 Yosef-73/Yosef-73 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
